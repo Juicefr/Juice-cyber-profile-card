@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     margin:0;
     padding:0;
@@ -143,4 +143,7 @@ img:hover{
 a{
     text-decoration: none;
 
+}
+.role{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
